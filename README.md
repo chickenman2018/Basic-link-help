@@ -12,3 +12,4 @@ Need help with links for a basic website I'm creating.
       <li><a href=“DonateGW.htm”>Donate!</a></li>
     </ul>
   </nav>
+Doesn't link to the pages I've created locally on my computer.
